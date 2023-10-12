@@ -410,6 +410,10 @@ a {
   flex-shrink: 0;
   margin-left: -5rem;
   margin-top: -6rem;
+
+}
+.upper-hero-right-table-background>img{
+  max-height: 11rem;
 }
 .upper-hero-right-table-p {
   color: #131126;
